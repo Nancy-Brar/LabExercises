@@ -6,3 +6,8 @@ $picuture-height: 200px;
   height: $picuture-height;
   object-fit: cover;
 }
+main {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 20px;
+}
