@@ -4,8 +4,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>My Pets</title>
-    <link rel="stylesheet" href="./css/bootstrap.css" />
-    <link rel="stylesheet" href="./css/style.css" />
   </head>
   <body>
     
@@ -54,19 +52,6 @@
         </div>
       </div>
     </div>
-
-    <script
-    src="./js/bootstrap.bundle.min.js">
-    </script>
-
-    <script
-    src="./js/darkmode.js">
-    </script>
-
-    <script
-    src="./js/script.js">
-    </script>
-
     <?php
     include 'includes/footer.php';
     ?>
